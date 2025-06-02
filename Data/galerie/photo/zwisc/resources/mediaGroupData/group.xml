@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>03/14/11, 04:08:48 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>ZWISCHEN 2 UND 4 – Köln       2011Die Aufnahmen wurden zwischen 2 Uhr und 4 Uhr nachts in Köln gemacht.Mit dieser Arbeit will ich erkunden, welche Faszination die Orte in dieserkurzen Zeitspanne auf mich ausüben, wenn sie selbst zur Ruhe gekommen sind.Straßen, Wege und Plätze in der Stadt, tagsüber pulsierend, offenbaren für mich erst in der Nacht ihren wahren Charakter.Die Stille und nächtliche Lichtstimmung der menschenleeren Kulissse üben auf mich eine neue Faszination aus. Man hat durch das tägliche Erleben andereBilder im Kopf, als die der nächtlichen Ruhe und Abgeschiedenheit. Es war sicherlich ein Wagnis, alleine, nur mit Kamera und Stativ bewaffnet, durch die Straßen zu ziehen. Ich bekenne, dass ich manchmal ein mulmiges Gefühl in der Magengegend hatte. Je nach Lichtverhältnissen waren bei den Aufnahmen Belichtungszeiten bis zu 3 Minuten erforderlich. Die Serie wird ca. wird ca 120 Fotografien umfassen. Z. Zt. sind 22 Arbeiten fertig, die in zwei Größen präsentiert werden können.</groupDescription>
+            <siteTitle>ZWISCHEN 2 UND 4 -Köln</siteTitle>
+            <contactName>2011 FineArt Print  30cm x 45cm /50cm x 75cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="22">
+        <item>
+            <title>1-ZWISCHEN 2 UND 4 -Domvorplatz 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3156FAE3-85E6-4098-8B1E-847B0464DF65"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/1_ZWISCHEN_2_UND_4_Domvorplatz_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/1_ZWISCHEN_2_UND_4_Domvorplatz_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/1_ZWISCHEN_2_UND_4_Domvorplatz_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/1_ZWISCHEN_2_UND_4_Domvorplatz_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2- ZWISCHEN 2 UND 4 -Domvorplatz 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9AF5BE65-FCFE-4A67-987B-441BCE02175E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2_ZWISCHEN_2_UND_4_Domvorplatz_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2_ZWISCHEN_2_UND_4_Domvorplatz_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2_ZWISCHEN_2_UND_4_Domvorplatz_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2_ZWISCHEN_2_UND_4_Domvorplatz_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>3- ZWISCHEN 2 UND 4 -Roncalliplatz 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="85E2955A-5676-48FB-AC4A-1A70D4A8F17A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/3_ZWISCHEN_2_UND_4_Roncalliplatz_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/3_ZWISCHEN_2_UND_4_Roncalliplatz_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/3_ZWISCHEN_2_UND_4_Roncalliplatz_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/3_ZWISCHEN_2_UND_4_Roncalliplatz_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>4- ZWISCHEN 2 UND 4 Roncalliplatz 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CDA9FE65-9840-43A6-9B4D-5B55024D5991"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/4_ZWISCHEN_2_UND_4_Roncalliplatz_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/4_ZWISCHEN_2_UND_4_Roncalliplatz_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/4_ZWISCHEN_2_UND_4_Roncalliplatz_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/4_ZWISCHEN_2_UND_4_Roncalliplatz_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>5- ZWISCHEN 2 UND 4 -Trankgasse</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BFA12C79-2C2B-42BF-9972-3B30AC761763"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/5_ZWISCHEN_2_UND_4_Trankgasse.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/5_ZWISCHEN_2_UND_4_Trankgasse.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/5_ZWISCHEN_2_UND_4_Trankgasse.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/5_ZWISCHEN_2_UND_4_Trankgasse.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>6- ZWISCHEN 2 UND 4 -Bahnhofsvorplatz 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D0DE020C-9CEF-4931-A2A0-15587532DEDC"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/6_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/6_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/6_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/6_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>7- ZWISCHEN 2 UND 4 -Bahnhofsvorplatz 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A572538F-C40F-4152-B73A-64B29144CCBB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/7_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/7_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/7_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/7_ZWISCHEN_2_UND_4_Bahnhofsvorplatz_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>8- ZWISCHEN 2 UND 4 -Früh am Dom</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3B6B7299-89BD-4ADF-80C3-CCEA098DC929"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/8_ZWISCHEN_2_UND_4_Fru_h_am_Dom.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/8_ZWISCHEN_2_UND_4_Fru_h_am_Dom.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/8_ZWISCHEN_2_UND_4_Fru_h_am_Dom.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/8_ZWISCHEN_2_UND_4_Fru_h_am_Dom.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>9- ZWISCHEN 2 UND 4 -Am Funkhaus 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7C1C9ABE-8D85-4D06-863E-5E07B1CFEF12"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/9_ZWISCHEN_2_UND_4_Am_Funkhaus_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/9_ZWISCHEN_2_UND_4_Am_Funkhaus_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/9_ZWISCHEN_2_UND_4_Am_Funkhaus_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/9_ZWISCHEN_2_UND_4_Am_Funkhaus_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>10 ZWISCHEN 2 UND 4 -Am Funkhaus 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="201FC571-0CE3-416C-94A0-7CFD3CC8F67D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/10_ZWISCHEN_2_UND_4_Am_Funkhaus_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/10_ZWISCHEN_2_UND_4_Am_Funkhaus_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/10_ZWISCHEN_2_UND_4_Am_Funkhaus_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/10_ZWISCHEN_2_UND_4_Am_Funkhaus_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>11- ZWISCHEN 2 UND 4 -Hohe Straße</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="25E8FEAB-A267-49EC-AEFE-7B20B7BF07A8"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/11_ZWISCHEN_2_UND_4_Hohe_Stra_e.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/11_ZWISCHEN_2_UND_4_Hohe_Stra_e.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/11_ZWISCHEN_2_UND_4_Hohe_Stra_e.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/11_ZWISCHEN_2_UND_4_Hohe_Stra_e.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>12- ZWISCHEN 2 UND 4 -Deutzer Brücke</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7D652CC5-2EDF-4EA0-96C2-FDDE214BA272"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/12_ZWISCHEN_2_UND_4_Deutzer_Bru_cke.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/12_ZWISCHEN_2_UND_4_Deutzer_Bru_cke.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/12_ZWISCHEN_2_UND_4_Deutzer_Bru_cke.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/12_ZWISCHEN_2_UND_4_Deutzer_Bru_cke.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>13- ZWISCHEN 2 UND 4 -Schokoladenmuseum 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="424058F6-9A61-4301-9C6A-79FE28186DB5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/13_ZWISCHEN_2_UND_4_Schokoladenmuseum_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/13_ZWISCHEN_2_UND_4_Schokoladenmuseum_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/13_ZWISCHEN_2_UND_4_Schokoladenmuseum_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/13_ZWISCHEN_2_UND_4_Schokoladenmuseum_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>14- ZWISCHEN 2 UND 4 Schokoladenmuseum 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="23049C4E-8AD4-4272-8E2C-6DEC8DB7080F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/14_ZWISCHEN_2_UND_4_Schokoladenmuseum_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/14_ZWISCHEN_2_UND_4_Schokoladenmuseum_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/14_ZWISCHEN_2_UND_4_Schokoladenmuseum_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/14_ZWISCHEN_2_UND_4_Schokoladenmuseum_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>15- ZWISCHEN 2 UND 4 -Rheinauhafen 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C6AA30D5-8751-4F36-9AF2-7D49BF987CFB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/15_ZWISCHEN_2_UND_4_Rheinauhafen_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/15_ZWISCHEN_2_UND_4_Rheinauhafen_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/15_ZWISCHEN_2_UND_4_Rheinauhafen_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/15_ZWISCHEN_2_UND_4_Rheinauhafen_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>16- ZWISCHEN 2 UND 4 -Rheinauhafen 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FF859A49-B971-4D85-A9FB-A44F790249FA"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/16_ZWISCHEN_2_UND_4_Rheinauhafen_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/16_ZWISCHEN_2_UND_4_Rheinauhafen_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/16_ZWISCHEN_2_UND_4_Rheinauhafen_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/16_ZWISCHEN_2_UND_4_Rheinauhafen_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>17- ZWISCHEN 2 UND 4 -Eigelsteintor</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="798D11A9-D8AC-4BA8-8647-DC7B08F06BD4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/17_ZWISCHEN_2_UND_4_Eigelsteintor.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/17_ZWISCHEN_2_UND_4_Eigelsteintor.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/17_ZWISCHEN_2_UND_4_Eigelsteintor.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/17_ZWISCHEN_2_UND_4_Eigelsteintor.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>18- ZWISCHEN 2 UND 4 -Ebertplatz 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BEE8F11F-410E-4954-B19B-DA91D4D20626"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/18_ZWISCHEN_2_UND_4_Ebertplatz_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/18_ZWISCHEN_2_UND_4_Ebertplatz_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/18_ZWISCHEN_2_UND_4_Ebertplatz_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/18_ZWISCHEN_2_UND_4_Ebertplatz_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>19- ZWISCHEN 2 UND 4 -Ebertplatz 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3952AFEE-FF49-40C4-AB45-599CC7549397"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/19_ZWISCHEN_2_UND_4_Ebertplatz_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/19_ZWISCHEN_2_UND_4_Ebertplatz_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/19_ZWISCHEN_2_UND_4_Ebertplatz_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/19_ZWISCHEN_2_UND_4_Ebertplatz_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>20- ZWISCHEN 2 UND 4 - Mediapark 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6827C72C-6D40-44D8-B118-578CFE7BDE1F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/20_ZWISCHEN_2_UND_4_Mediapark_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/20_ZWISCHEN_2_UND_4_Mediapark_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/20_ZWISCHEN_2_UND_4_Mediapark_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/20_ZWISCHEN_2_UND_4_Mediapark_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>21- ZWISCHEN 2 UND 4 - Mediapark 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="925C9195-FE59-47D7-835A-BE9BC5F5E3D4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/21_ZWISCHEN_2_UND_4_Mediapark_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/21_ZWISCHEN_2_UND_4_Mediapark_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/21_ZWISCHEN_2_UND_4_Mediapark_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/21_ZWISCHEN_2_UND_4_Mediapark_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>22- ZWISCHEN 2 UND 4 - Mediapark 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="70492282-17D5-4A31-B0A3-E0AECA56110B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/22_ZWISCHEN_2_UND_4_Mediapark_3.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/22_ZWISCHEN_2_UND_4_Mediapark_3.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/22_ZWISCHEN_2_UND_4_Mediapark_3.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/22_ZWISCHEN_2_UND_4_Mediapark_3.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

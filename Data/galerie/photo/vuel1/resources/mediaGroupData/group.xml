@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>01/01/11, 11:38:44 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>VUELTAS</siteTitle>
+            <contactName> 2005     FineArt-Print auf Bütten    30cm  x 40cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="4">
+        <item>
+            <title>2005 Vueltas 01</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8C1DF213-C87D-431B-A9D9-2F2F1F97561E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2005_Vueltas_01.jpg" height="650" width="823"></rendition>
+                <rendition size="medium" src="bin/images/medium/2005_Vueltas_01.jpg" height="520" width="659"></rendition>
+                <rendition size="small" src="bin/images/small/2005_Vueltas_01.jpg" height="450" width="570"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2005_Vueltas_01.jpg" height="76" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2005 Vueltas 02</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EC019C8B-4880-4B6C-9334-98B3F9ECF342"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2005_Vueltas_02.jpg" height="650" width="823"></rendition>
+                <rendition size="medium" src="bin/images/medium/2005_Vueltas_02.jpg" height="520" width="659"></rendition>
+                <rendition size="small" src="bin/images/small/2005_Vueltas_02.jpg" height="450" width="570"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2005_Vueltas_02.jpg" height="76" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2005 Vueltas 03</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E995E509-834C-4E02-AEA0-2A1DA693408C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2005_Vueltas_03.jpg" height="650" width="823"></rendition>
+                <rendition size="medium" src="bin/images/medium/2005_Vueltas_03.jpg" height="520" width="659"></rendition>
+                <rendition size="small" src="bin/images/small/2005_Vueltas_03.jpg" height="450" width="570"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2005_Vueltas_03.jpg" height="76" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2005 Vueltas 04</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8C4D5816-9B36-4F26-941D-65615DEC269B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2005_Vueltas_04.jpg" height="650" width="823"></rendition>
+                <rendition size="medium" src="bin/images/medium/2005_Vueltas_04.jpg" height="520" width="659"></rendition>
+                <rendition size="small" src="bin/images/small/2005_Vueltas_04.jpg" height="450" width="570"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2005_Vueltas_04.jpg" height="76" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

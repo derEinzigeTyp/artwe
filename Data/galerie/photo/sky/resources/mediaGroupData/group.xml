@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>04/18/09, 07:26:04 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Die Aufnahmen zeigen Sonnenuntergänge im Valle Grand Rey auf La Gomera</groupDescription>
+            <siteTitle>BURNING SKY</siteTitle>
+            <contactName>2005      FineArt-Print       30 cm x 40cm</contactName>
+            <contactEmail>http://www.art-we.de</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="192" maxheight="192"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="8">
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 1</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="32B6D44E-2766-498C-B377-9DF76AD16CFD"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._1.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._1.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._1.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._1.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 2</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="67D0EC47-2289-477E-AEB2-B4F70BD711AB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._2.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._2.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._2.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._2.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7302D1D2-C7E0-4135-A93A-110CFBA5411D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._3.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._3.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._3.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._3.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 4</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ABE244CB-FAAC-4C6D-97B4-3E6C7194A9C4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._4.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._4.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._4.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._4.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 5</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="95BB4A7E-07D6-4397-9BB3-C7B2223332CE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._5.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._5.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._5.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._5.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 6</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8409D2F9-39D8-4B84-9542-C1D1DF741B8F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._6.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._6.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._6.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._6.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 7</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="23311761-CE68-4992-A1D2-766A135D04F6"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._7.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._7.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._7.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._7.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Burning Sky No. 8</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="95F65B6C-58EE-4244-817F-E05C55F2F32E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Burning_Sky_No._8.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/Burning_Sky_No._8.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/Burning_Sky_No._8.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Burning_Sky_No._8.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

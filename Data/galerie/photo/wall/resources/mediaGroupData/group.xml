@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>12/31/10, 04:10:43 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>WALLS</siteTitle>
+            <contactName> 2008- 2009 FineArt-Print auf Bütten  30cm x 45cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="6">
+        <item>
+            <title>2008 Burano 1_</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="19CC869A-3765-449D-ADF3-701D89AC993A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Burano_1_.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Burano_1_.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Burano_1_.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Burano_1_.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Burano 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="95E28499-5FAD-4FAE-9B26-8D3DD06B7C1C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Burano_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Burano_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Burano_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Burano_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Burano 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3DB06FEE-00E6-41E6-B3DF-8F256A59E45E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Burano_3.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Burano_3.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Burano_3.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Burano_3.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Zakynthos 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A403D68A-7FAD-4395-AC6F-D15D5058D42F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Zakynthos_1.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Zakynthos_1.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Zakynthos_1.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Zakynthos_1.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Zakynthos 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E1DCAC4C-3565-4113-A2CC-10DEA6D738C9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Zakynthos_2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Zakynthos_2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Zakynthos_2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Zakynthos_2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 LANZAROTE</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FDC315E5-3ED7-4F66-82AC-EAC10CE8145A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_LANZAROTE.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_LANZAROTE.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_LANZAROTE.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_LANZAROTE.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

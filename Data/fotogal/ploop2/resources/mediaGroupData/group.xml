@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>04/24/09, 02:00:16 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Preisverleihung</groupTitle>
+            <groupDescription> </groupDescription>
+            <siteTitle>PLOOP AWARD! HÖRKUNSTPREIS  BERLIN   2008</siteTitle>
+            <contactName></contactName>
+            <contactEmail>http://www.art-we.de</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="192" maxheight="192"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="11">
+        <item>
+            <title></title>
+            <description>1</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FBFE4602-A60F-45B5-BE91-E7797E7FFAA5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/1.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/1.jpg" height="650" width="866"></rendition>
+                <rendition size="small" src="bin/images/small/1.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/1.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>2</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5D5C9198-2569-44B3-9B92-9FD4E920044E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/2.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/2.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F464BA9F-B1AA-4204-8F7B-F123C93AC1DD"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/3.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/3.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/3.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/3.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>4</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="668CD565-8C06-45DE-81B0-5A4DC0D86E99"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/4.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/4.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/4.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/4.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>5</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DA3C216A-CE1E-426D-A1DF-E93D05041FF6"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/5.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/5.jpg" height="650" width="866"></rendition>
+                <rendition size="small" src="bin/images/small/5.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/5.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>6</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="05DD0C42-2004-4F4B-BF7A-35A0F810D5A1"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/6.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/6.jpg" height="650" width="866"></rendition>
+                <rendition size="small" src="bin/images/small/6.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/6.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>7</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7181AD71-9729-44F7-9139-D1B3618C77AB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/7.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/7.jpg" height="650" width="866"></rendition>
+                <rendition size="small" src="bin/images/small/7.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/7.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>8-2</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="08493C0E-7ED7-4383-87FC-3EF735619C8A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/8_2.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/8_2.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/8_2.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/8_2.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>9</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C4F3C99D-F6A4-47F5-BDA3-8B760A0D0FBF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/9.jpg" height="850" width="1237"></rendition>
+                <rendition size="medium" src="bin/images/medium/9.jpg" height="650" width="946"></rendition>
+                <rendition size="small" src="bin/images/small/9.jpg" height="520" width="757"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/9.jpg" height="132" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>10</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A5C19351-0355-4CE8-93CC-9AB320FC4A4A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/10.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/10.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/10.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/10.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>11</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D0C2CBF9-9F2B-49D1-8A23-1D3B64A140F4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/11.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/11.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/11.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/11.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>12/29/09, 01:51:17 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Die Aufnahmen für diese Serie entstanden in Im Sommer 2009 in Brüssel.</groupDescription>
+            <siteTitle>WALL-PAINTING</siteTitle>
+            <contactName>2009   FineArt-Print     42cm x 60cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="20">
+        <item>
+            <title>2009 Wall-Painting No. 01</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="666E9754-BA43-448D-9074-DFAFDC8D292D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._01.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._01.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._01.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._01.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 02</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9529BE9C-29C2-421C-B7B5-BAB4B28914EE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._02.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._02.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._02.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._02.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 03</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="65A744FC-B1B5-486D-B351-7E912CCBD5A3"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._03.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._03.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._03.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._03.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 04</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2033E842-05D9-42E7-B247-0159DD99885F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._04.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._04.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._04.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._04.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 05</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="761359A9-D3FB-44E3-8A91-DAEF80B5ADFA"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._05.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._05.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._05.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._05.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 06</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="842E1C5B-5EBE-4E17-A3E6-9B8E25A5154F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._06.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._06.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._06.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._06.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 07</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="960A72AC-5787-4133-812A-E44090B46696"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._07.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._07.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._07.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._07.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 08</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4D1C687F-F589-4B76-814F-2F81910F6DBC"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._08.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._08.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._08.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._08.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 09</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="50C6CD8E-2D34-4302-9E22-80737924A160"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._09.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._09.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._09.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._09.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 10</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="88BD315F-63E3-429A-A5D7-833F5D01BDD9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._10.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._10.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._10.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._10.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 11</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DE99E7B3-B6DC-4286-8851-4AF78E3FC9B1"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._11.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._11.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._11.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._11.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 12</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="67E7FDCD-E3FD-4035-9DFC-12D4247B4039"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._12.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._12.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._12.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._12.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 13</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EE61FE76-89BD-4D8E-9272-94914223AFB4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._13.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._13.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._13.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._13.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 14</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DE1FB5F1-6CEA-4645-B55C-6876BCCD5E29"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._14.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._14.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._14.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._14.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 15</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B52F0B62-222A-499F-85E4-D6ED6B4C145E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._15.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._15.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._15.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._15.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 16</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="05E93584-E36A-496B-AF49-B9DB1FA74BEB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._16.jpg" height="850" width="601"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._16.jpg" height="650" width="460"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._16.jpg" height="520" width="368"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._16.jpg" height="96" width="68"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 17</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="23F6010D-7BAF-43D2-AA55-653DA03B2B45"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._17.jpg" height="850" width="601"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._17.jpg" height="650" width="460"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._17.jpg" height="520" width="368"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._17.jpg" height="96" width="68"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 18</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="633C038A-8B59-498E-B740-04A3C5E5D24A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._18.jpg" height="850" width="601"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._18.jpg" height="650" width="460"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._18.jpg" height="520" width="368"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._18.jpg" height="96" width="68"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 19</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A54EAC53-DCA7-4D76-AD36-1987B31149C5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._19.jpg" height="850" width="601"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._19.jpg" height="650" width="460"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._19.jpg" height="520" width="368"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._19.jpg" height="96" width="68"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Wall-Painting No. 20</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D8E28B5D-49E4-4019-A379-43EAB8CD3A4C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Wall_Painting_No._20.jpg" height="850" width="601"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Wall_Painting_No._20.jpg" height="650" width="460"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Wall_Painting_No._20.jpg" height="520" width="368"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Wall_Painting_No._20.jpg" height="96" width="68"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

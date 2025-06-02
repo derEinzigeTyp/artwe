@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>04/24/09, 01:27:00 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Ausstellung</groupTitle>
+            <groupDescription> </groupDescription>
+            <siteTitle>KUNST RUND UM- GALERIE KUPFERHOF STOLBERG 2007</siteTitle>
+            <contactName></contactName>
+            <contactEmail>http://www.art-we.de</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="192" maxheight="192"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="4">
+        <item>
+            <title></title>
+            <description>1</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="555F4CB7-11B9-42FE-A203-C156A54F70B4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/1.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/1.jpg" height="650" width="866"></rendition>
+                <rendition size="small" src="bin/images/small/1.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/1.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="715C2BF7-CB93-49BE-9953-F6C748BBE823"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/3.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/3.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/3.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/3.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>4</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="82216120-58B9-4619-83DA-69129AADBFF1"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/4.jpg" height="850" width="1134"></rendition>
+                <rendition size="medium" src="bin/images/medium/4.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/4.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/4.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>2</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1B507FF4-EA41-430D-9794-FAA9F4CFDA6E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2.jpg" height="850" width="1133"></rendition>
+                <rendition size="medium" src="bin/images/medium/2.jpg" height="650" width="867"></rendition>
+                <rendition size="small" src="bin/images/small/2.jpg" height="520" width="693"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

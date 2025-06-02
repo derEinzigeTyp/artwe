@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>12/31/10, 01:03:11 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>OBEN OHNE- Körperwelten</siteTitle>
+            <contactName> 2009   FineArt-Print     75cm  x 50cm </contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="12">
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 01</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="00EA599F-4AC1-41CF-BF57-E8BCB0E58890"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_01.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_01.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_01.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_01.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 02</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0A3C3F72-C0CB-4FDD-80C8-2554BCAE1BE0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_02.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_02.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_02.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_02.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 03</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="22B833DD-567F-4B09-A5F3-62636A577D33"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_03.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_03.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_03.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_03.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 04</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ED3454B4-6113-4BF7-8537-49CCD9D4DD4A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_04.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_04.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_04.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_04.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 05</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C9FED054-B8EA-4930-9AA4-94A8E2B38D21"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_05.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_05.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_05.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_05.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 06</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="002D9E68-6038-423E-95FE-C5ADD2B2C62C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_06.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_06.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_06.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_06.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 07</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="69C75F9C-37DB-4906-8AA2-07858FF91724"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_07.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_07.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_07.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_07.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 08</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BCF1641B-A2DD-457A-ADF4-7D3CC1373F69"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_08.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_08.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_08.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_08.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 09</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1EB9A59D-0FE0-49B3-BDA6-8718E8840A62"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_09.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_09.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_09.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_09.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 10</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C228F3A0-3488-411A-8979-69ABC98CD7D8"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_10.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_10.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_10.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_10.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 11</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="41F06689-9185-48D2-9FEB-778762D8AE9C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_11.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_11.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_11.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_11.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title> 2009 Oben Ohne- Körperwelten 12</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="51D85C57-D49B-450D-A2A0-B9ACFF2925D4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_2009_Oben_Ohne_Ko_rperwelten_12.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/_2009_Oben_Ohne_Ko_rperwelten_12.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/_2009_Oben_Ohne_Ko_rperwelten_12.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_2009_Oben_Ohne_Ko_rperwelten_12.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

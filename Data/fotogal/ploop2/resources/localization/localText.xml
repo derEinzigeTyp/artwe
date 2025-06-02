@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<localization>
+	<galleryMenus>
+		<menuitem label="Ansicht" event="MenuView">
+			<menuitem label="Galerie" type="radio" event="MenuViewGallery"/>
+			<menuitem label="Diashow" type="radio" event="MenuViewSlideshow"/>
+			<menuitem label="Separator" event="Separator"/>
+			<menuitem label="Über diese Fotos" type="radio" event="MenuViewAbout"/>		
+		</menuitem>
+	</galleryMenus>
+	<toolTips>
+		<toolTip label="Nächstes Bild" item="SlideshowVCRNextTip"/>
+		<toolTip label="Vorheriges Bild" item="SlideshowVCRPrevTip"/>
+		<toolTip label="Diashow abspielen" item="SlideshowVCRPlayTip"/>
+		<toolTip label="Diashow anhalten" item="SlideshowVCRPauseTip"/>
+		<toolTip label="Galerie anzeigen" item="SlideshowViewGalleryTip"/>
+		<toolTip label="Diashow anzeigen" item="SlideshowViewSlideshowTip"/>
+		<toolTip label="Kommentar hinzufügen" item="SlideshowOpenCommentTip"/>
+		<toolTip label="Als Favorit markieren" item="SlideshowMarkFavoriteTip"/>
+		<toolTip label="Nächste Seite" item="ThumbnailNextPageTip"/>
+		<toolTip label="Vorherige Seite" item="ThumbnailPrevPageTip"/>
+		<toolTip label="Letzte Seite" item="ThumbnailLastPageTip"/>
+		<toolTip label="Erste Seite" item="ThumbnailFirstPageTip"/>
+		<toolTip label="Video abspielen" item="SlideshowVideoPlayTip"/>
+		<toolTip label="Video anhalten" item="SlideshowVideoPauseTip"/>
+		<toolTip label="Video zurückspulen" item="SlideshowVideoRewindTip"/>
+	</toolTips>
+</localization>

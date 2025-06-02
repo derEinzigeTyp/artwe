@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>01/04/11, 02:13:03 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>VERLASSENE RÄUME</siteTitle>
+            <contactName>2009    FineArt-Print 50cm x 75cm </contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="30">
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.01</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7AC5F2D2-E3A7-42C9-96FC-A0BCBACAA765"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.01.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.01.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.01.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.01.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.02</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9062B203-24F8-474E-BE50-A9EDFEDAC577"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.02.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.02.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.02.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.02.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.03</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C0EC404D-615E-4E6A-9220-A2696297E2E6"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.03.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.03.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.03.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.03.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.04</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CC36F12A-E407-4390-A3D2-270E7A2EE38F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.04.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.04.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.04.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.04.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.05</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0BA0DCB4-C4C2-4089-94C6-2668A5934EFD"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.05.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.05.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.05.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.05.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.06</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="721F1145-D763-43F8-B427-7E4EC6CA1AC2"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.06.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.06.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.06.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.06.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.07</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FD38096E-9E56-40EB-BABD-A6276DCCF608"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.07.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.07.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.07.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.07.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.08</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="95CA5664-2664-43E6-9647-53C42A15393B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.08.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.08.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.08.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.08.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.09</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="13ED6450-07D2-4C1F-A8F7-EDD87FDD9811"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.09.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.09.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.09.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.09.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.10</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="04061B0B-FF4D-4833-A695-A6B6DAA70DE4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.10.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.10.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.10.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.10.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.11</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="85122DBD-A430-446E-9BDB-304D2A1C27F9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.11.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.11.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.11.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.11.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.12</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0DB003DE-CDF5-4717-9496-2A9A4F0C3945"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.12.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.12.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.12.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.12.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.13</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="25CA740F-5B53-4ECA-A62E-BDE97539B24E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.13.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.13.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.13.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.13.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.14</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B55FAD0F-09C5-4E6D-892B-38B376486EC3"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.14.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.14.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.14.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.14.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.15</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D4FD0BA2-2CCD-4E9B-A628-0F278F04367F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.15.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.15.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.15.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.15.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.16</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3468CB79-3D1E-4B12-92E6-5AB15FA3E636"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.16.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.16.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.16.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.16.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.17</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F20F7532-1633-4EAD-A830-A910B5B02FCB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.17.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.17.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.17.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.17.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.18</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="39D0D0A1-27F5-4E27-9223-85894160C933"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.18.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.18.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.18.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.18.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.19</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="81FE78B7-BFC8-4F43-B7D5-06A41554FD9E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.19.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.19.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.19.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.19.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.20</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9501C979-204B-4D7B-BD12-DB9FB552864E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.20.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.20.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.20.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.20.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.21</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1344F79A-44D1-472C-9A7C-ADC5A48B7E4B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.21.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.21.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.21.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.21.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.22</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8F2F6903-093F-49DE-B9F7-DFFFF8BEC7BB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.22.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.22.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.22.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.22.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.23</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="982809CA-3702-4F91-87A3-42EB6EBFE8E7"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.23.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.23.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.23.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.23.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.24</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D697A93E-42B8-452B-9E66-E8BD5BF0201D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.24.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.24.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.24.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.24.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.25</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4081A778-876E-4736-8540-E6534DF465D1"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.25.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.25.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.25.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.25.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.26</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="744778BC-DD21-4681-8472-0CB5CF3A65AC"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.26.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.26.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.26.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.26.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.27</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2656B573-B31E-40BC-B6F7-E4732A549269"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.27.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.27.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.27.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.27.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.28</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DC3D0DFD-3E95-4301-894A-1D259BAE4274"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.28.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.28.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.28.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.28.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.29</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="992B4437-044B-44D8-83E3-7F92D78E97DF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.29.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.29.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.29.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.29.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Verlassene Räume- Gasaufbereitung Ost No.30</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3E203EC4-5F4C-4054-A411-3577FF45C4E5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.30.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.30.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.30.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Verlassene_Ra_ume_Gasaufbereitung_Ost_No.30.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

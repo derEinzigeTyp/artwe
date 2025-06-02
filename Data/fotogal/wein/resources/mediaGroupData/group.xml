@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>11/28/09, 08:42:56 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Ich bin der wahre Weinstock, und mein Vater ist der Weingärtner, der alle unfruchtbaren Triebe abschneidet. Aber die fruchttragenden Reben beschneidet er sorgfältig, damit sie noch mehr Frucht bringen.                                           Johannes-Evangelium 15,1-8                                                                                                                                                                            Die Aufnahmen entstanden im November 2009.</groupDescription>
+            <siteTitle>VOM WEINSTOCK UND DEN REBEN</siteTitle>
+            <contactName>2009   Fineart-Print auf Bütten   42cm x 60cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="8">
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6AB3F857-D142-429F-AFA8-3A3B13C3A312"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.1.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.1.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.1.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.1.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="82AE307D-F236-4BEF-AF80-AC5226574BBA"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.2.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.2.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.2.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.2.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="65FEDD15-7942-40C1-89CF-F9E13C819D2C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.3.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.3.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.3.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.3.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.4</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0FB7A354-4148-4DDA-AF30-EE9D1520861D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.4.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.4.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.4.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.4.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.5</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6FF186FF-C177-453C-AAC9-73163962D96D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.5.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.5.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.5.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.5.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.6</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="09E5F083-591A-4E07-83A7-5D187D260D15"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.6.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.6.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.6.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.6.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.7</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8BBB6D2D-61C3-4F90-9F3F-6DC8BE803CBC"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.7.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.7.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.7.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.7.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vom Weinstock und den Reben No.8</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E8C339DB-3215-4F41-8930-9E30C10B1418"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vom_Weinstock_und_den_Reben_No.8.jpg" height="850" width="850"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vom_Weinstock_und_den_Reben_No.8.jpg" height="650" width="650"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vom_Weinstock_und_den_Reben_No.8.jpg" height="520" width="520"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vom_Weinstock_und_den_Reben_No.8.jpg" height="96" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

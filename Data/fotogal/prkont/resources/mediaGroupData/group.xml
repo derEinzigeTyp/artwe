@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>07/04/10, 01:10:02 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Präsentation -Der vergessene Kontinent</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>SEH-TEST Kloster/Löhrerhof Hürth</siteTitle>
+            <contactName></contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="5">
+        <item>
+            <title></title>
+            <description>_DSC8681</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B3327A16-EE40-4EAB-84B0-0CAF554149BE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_DSC8681.jpg" height="650" width="979"></rendition>
+                <rendition size="medium" src="bin/images/medium/_DSC8681.jpg" height="520" width="783"></rendition>
+                <rendition size="small" src="bin/images/small/_DSC8681.jpg" height="450" width="678"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_DSC8681.jpg" height="64" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>_DSC8682</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="714F8F52-3B63-44C0-A932-EA65DE023C7A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_DSC8682.jpg" height="650" width="979"></rendition>
+                <rendition size="medium" src="bin/images/medium/_DSC8682.jpg" height="520" width="783"></rendition>
+                <rendition size="small" src="bin/images/small/_DSC8682.jpg" height="450" width="678"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_DSC8682.jpg" height="64" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>_DSC8683</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8E0E8E24-C4E7-4EB1-A290-A0AC0ABEE6CE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_DSC8683.jpg" height="650" width="979"></rendition>
+                <rendition size="medium" src="bin/images/medium/_DSC8683.jpg" height="520" width="783"></rendition>
+                <rendition size="small" src="bin/images/small/_DSC8683.jpg" height="450" width="678"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_DSC8683.jpg" height="64" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>_DSC8684</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C9B4576F-E1C6-4566-8F2D-C09EAE40340A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_DSC8684.jpg" height="650" width="979"></rendition>
+                <rendition size="medium" src="bin/images/medium/_DSC8684.jpg" height="520" width="783"></rendition>
+                <rendition size="small" src="bin/images/small/_DSC8684.jpg" height="450" width="678"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_DSC8684.jpg" height="64" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>_DSC8685</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="08827FFD-137D-4DCF-93C6-196916FB0357"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/_DSC8685.jpg" height="650" width="979"></rendition>
+                <rendition size="medium" src="bin/images/medium/_DSC8685.jpg" height="520" width="783"></rendition>
+                <rendition size="small" src="bin/images/small/_DSC8685.jpg" height="450" width="678"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/_DSC8685.jpg" height="64" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

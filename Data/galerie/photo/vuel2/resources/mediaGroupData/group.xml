@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>04/18/09, 07:46:35 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>DIE AUFNAHMEN ZEIGEN PUTZOBERFLÄCHEN EINES FAST 80 JAHRE ALTEN HAUSES IN VUELTAS AUF LA GOMERA. DER VERFALL LEGT DIE IM LAUFE DER JAHRE VERSCHIEDENFARBIGEN PUTZOBERFLÄCHEN FREI. SO ENTSTEHEN IN DER NAHAUFNAHME ABSTRAKTE BILDER. EIN BESUCH IM JAHRE 2009 ZEIGTE, DASS DAS HAUS ZWISCHENZEITLICH SANIERT WURDE.</groupDescription>
+            <siteTitle>VUELTAS II</siteTitle>
+            <contactName>2006      FineArt-Print      42 cm x 60 cm</contactName>
+            <contactEmail>http://www.art-we.de</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="192" maxheight="192"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="12">
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 01</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E53A6B46-2648-46BD-81F6-CD1B5CB10E8F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._01.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._01.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._01.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._01.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 02</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3545B891-1D7B-4370-BFF9-EFB39490621E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._02.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._02.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._02.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._02.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 03</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1FD0E1F9-469C-47A6-AF11-8310D074B3BD"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._03.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._03.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._03.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._03.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 04</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="31223FF9-F772-4441-B2E6-13519ABDB0B8"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._04.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._04.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._04.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._04.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 05</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="30654057-3F8F-4CF3-AB45-01BB7D67DE5D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._05.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._05.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._05.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._05.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 06</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0148E95F-5397-473A-84FF-F40DE82125B0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._06.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._06.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._06.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._06.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 07</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="721D507D-3D16-4AD4-A6A9-87907EE4C5B7"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._07.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._07.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._07.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._07.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 08</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A88AAE79-A0DB-4EBC-8059-47BBFF939397"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._08.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._08.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._08.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._08.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 09</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E0505BB5-A0BF-41E7-A5D8-85495390B8D6"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._09.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._09.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._09.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._09.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 10</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8672E4BD-4C9C-4E9C-A143-D20271C37CD6"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._10.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._10.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._10.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._10.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 11</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5D04725A-4695-4906-ACA6-5AB5A216CAB5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._11.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._11.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._11.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._11.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Auflage 7+3</title>
+            <description>Vueltas II No. 12</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EE86DEB1-1516-444B-81A6-6D07AC6C2A7F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vueltas_II_No._12.jpg" height="850" width="1135"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vueltas_II_No._12.jpg" height="650" width="868"></rendition>
+                <rendition size="small" src="bin/images/small/Vueltas_II_No._12.jpg" height="520" width="694"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vueltas_II_No._12.jpg" height="144" width="192"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

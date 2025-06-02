@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>frame links</title>
+
+		<style type="text/css" media="screen"><!--
+#Ebene1  { visibility: visible; position: absolute; top: 163px; left: 359px; width: 253px; height: 18px }
+#Ebene2 { visibility: visible; position: absolute; top: 181px; left: 359px; width: 253px; height: 18px }
+#Ebene3 { visibility: visible; position: absolute; top: 199px; left: 359px; width: 253px; height: 18px }
+#Ebene4   { visibility: visible; position: absolute; top: 217px; left: 359px; width: 253px; height: 90px }
+#Ebene5   { visibility: hidden; position: absolute; top: 199px; left: 176px; width: 158px; height: 36px }
+--></style>
+		<csactions>
+			<csaction name="8461A17" class="Move By" type="onevent" val0="Ebene4" val1="0" val2="30"></csaction>
+			<csaction name="848FDE8" class="Move By" type="onevent" val0="Ebene4" val1="0" val2="-30"></csaction>
+			<csaction name="8811369" class="ShowHide" type="onevent" val0="Ebene5" val1="1"></csaction>
+			<csaction name="886C3310" class="ShowHide" type="onevent" val0="Ebene5" val1="0"></csaction>
+		</csactions>
+		<csscriptdict import>
+			<script type="text/javascript" src="file:///C:/Dokumente%20und%20Einstellungen/kave/Anwendungsdaten/Adobe/Adobe%20GoLive/Settings7/JScripts/GlobalScripts/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script type="text/javascript"><!--
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		pre_home_on = newImage('jpg/home_on.gif');
+		pre_vita_on = newImage('jpg/vita_on.gif');
+		pre_galerie_on = newImage('jpg/galerie_on.gif');
+		preloadFlag = true;
+	}
+}
+CSAct[/*CMP*/ '8461A17'] = new Array(CSMoveBy,/*CMP*/ 'Ebene4',0,30);
+CSAct[/*CMP*/ '848FDE8'] = new Array(CSMoveBy,/*CMP*/ 'Ebene4',0,-30);
+CSAct[/*CMP*/ '8811369'] = new Array(CSShowHide,/*CMP*/ 'Ebene5',1);
+CSAct[/*CMP*/ '886C3310'] = new Array(CSShowHide,/*CMP*/ 'Ebene5',0);
+
+// --></script>
+		</csactiondict>
+	</head>
+<body onload="preloadImages();" text="#ffffff" bgcolor="#333333" link="#FF0000" alink="#FF0000" vlink="#FF0000">
+<font face="VERDANA,ARIAL,HELVETICA">
+<br>
+<table border="0" cellspacing="0" cellpadding="0" align="right">
+<tr> <td><img src="jpg/artwe_links.gif" align="right" border="0" width="50" height="100" hspace="0" vspace="0">
+<br> </td></tr>
+<tr><td>
+<img src="jpg/picx2.gif" align="right" border="0" width="250" height="2" hspace="0" vspace="0">  </td></tr>
+</table>
+			<br>
+			<br>
+			<br>
+<br>
+<br>
+			<br>
+			<br>
+			<div id="Ebene1">
+				<a onmouseover="changeImages('image1','jpg/home_on.gif');return true" onmouseout="changeImages('image1','jpg/home.gif');return true" href="home"><img src="jpg/home.gif" align="right" border="0" name="image1" hspace="4"></a></div>
+			<div id="Ebene2">
+				<a onmouseover="changeImages('image2','jpg/vita_on.gif');return true" onmouseout="changeImages('image2','jpg/vita.gif');return true" href="#"><img src="jpg/vita.gif" align="right" border="0" name="image2" hspace="4"></a></div>
+			<div id="Ebene5">
+				bvfv<br>
+				fdffffff</div>
+			<div id="Ebene3">
+				<a onmouseover="CSAction(new Array(/*CMP*/'8461A17',/*CMP*/'8811369'));changeImages('image3','jpg/galerie_on.gif');return true" onmouseout="CSAction(new Array(/*CMP*/'848FDE8',/*CMP*/'886C3310'));changeImages('image3','jpg/galerie.gif');return true" href="#" csout="848FDE8,886C3310" csover="8461A17,8811369"><img src="jpg/galerie.gif" align="right" border="0" name="image3" hspace="4"></a></div>
+			<div id="Ebene4">
+				<img src="jpg/projekte.gif" align="right" border="0" name="image8" hspace="4"><br>
+				<img src="jpg/presse.gif" align="right" border="0" name="image7" hspace="4"><br>
+				<img src="jpg/kontakt.gif" align="right" border="0" name="image4" hspace="4"><br>
+				<img src="jpg/links.gif" align="right" border="0" name="image5" hspace="4"><br>
+				<img src="jpg/impr.gif" align="right" border="0" name="image6" hspace="4"></div>
+
+</font>
+</body>
+</html>

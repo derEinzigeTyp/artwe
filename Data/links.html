@@ -1,0 +1,122 @@
+<html>
+<head>
+<title>frame links</title>
+
+<script language="JavaScript">
+	<!--
+	if (document.images) {
+	  image1on = new Image();
+	  image1on.src="jpg/home_on.gif";
+	  image1off = new Image();
+	  image1off.src="jpg/home.gif";
+
+	  image2on = new Image();
+	  image2on.src="jpg/vita_on.gif";
+	  image2off = new Image();
+	  image2off.src="jpg/vita.gif";
+
+	  image3on = new Image();
+	  image3on.src="jpg/galerie_on.gif";
+	  image3off = new Image();
+	  image3off.src="jpg/galerie.gif";
+
+	  image8on = new Image();
+	  image8on.src="jpg/projekte_on.gif";
+	  image8off = new Image();
+	  image8off.src="jpg/projekte.gif";
+
+	  image4on = new Image();
+	  image4on.src="jpg/kontakt_on.gif";
+	  image4off = new Image();
+	  image4off.src="jpg/kontakt.gif";
+
+	  image5on = new Image();
+	  image5on.src="jpg/links_on.gif";
+	  image5off = new Image();
+	  image5off.src="jpg/links.gif";
+
+	  image6on = new Image();
+	  image6on.src="jpg/impr_on.gif";
+	  image6off = new Image();
+	  image6off.src="jpg/impr.gif";
+	  
+	  image9on = new Image();
+	  image9on.src="jpg/audio_on.gif";
+	  image9off = new Image();
+	  image9off.src="jpg/audio.gif";
+          
+	  image10on = new Image();
+	  image10on.src="jpg/fotogal_on.gif";
+	  image10off = new Image();
+	  image10off.src="jpg/fotogal.gif";
+
+	  image11on = new Image();
+	  image11on.src="jpg/objekte_on.gif";
+	  image11off = new Image();
+	  image11off.src="jpg/objekte.gif";
+}
+
+function changeImages() {
+  if (document.images) {
+    for (var i=0; i<changeImages.arguments.length; i+=2) {
+      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+    }
+  }
+}
+// -->
+</script>
+</head>
+<body text="#ffffff" bgcolor="#333333" link="#FF0000" alink="#FF0000" vlink="#FF0000">
+<br>
+<br>
+<a href="home_def.html" target="oben">
+<a href="unten.html" target="unten"
+       onMouseOver="changeImages('image1', 'image1on')"
+       onMouseOut="changeImages('image1', 'image1off')">
+<img src="jpg/home.gif" align="right" border="0" name="image1" hspace="4">
+</a>
+</a><br>
+<a href="vita.html" target="unten"
+       onMouseOver="changeImages('image2', 'image2on')"
+       onMouseOut="changeImages('image2', 'image2off')">
+<img src="jpg/vita.gif" align="right" border="0" name="image2" hspace="4">
+</a><br>
+<a href="galerie/html/gal_ind.html" target="unten"
+       onMouseOver="changeImages('image3', 'image3on')"
+       onMouseOut="changeImages('image3', 'image3off')">
+<img src="jpg/galerie.gif" align="right" border="0" name="image3" hspace="4">
+</a><br>
+<a href="audio.html" target="unten"
+       onMouseOver="changeImages('image9', 'image9on')"
+       onMouseOut="changeImages('image9', 'image9off')">
+<img src="jpg/audio.gif" align="right" border="0" name="image9" hspace="4">
+</a><br>
+<a href="galerie/html/objekte_ind.html" target="unten"
+       onMouseOver="changeImages('image11', 'image11on')"
+       onMouseOut="changeImages('image11', 'image11off')">
+<img src="jpg/objekte.gif" align="right" border="0" name="image11" hspace="4">
+</a><br><br>
+<a href="fotogal.html" target="unten"
+       onMouseOver="changeImages('image10', 'image10on')"
+       onMouseOut="changeImages('image10', 'image10off')">
+<img src="jpg/fotogal.gif" align="right" border="0" name="image10" hspace="4">
+</a><br>
+<a href="kontakt.html" target="unten"
+       onMouseOver="changeImages('image4', 'image4on')"
+       onMouseOut="changeImages('image4', 'image4off')">
+<img src="jpg/kontakt.gif" align="right" border="0" name="image4" hspace="4">
+</a><br>
+<a href="links_2.html" target="unten"
+       onMouseOver="changeImages('image5', 'image5on')"
+       onMouseOut="changeImages('image5', 'image5off')">
+<img src="jpg/links.gif" align="right" border="0" name="image5" hspace="4">
+</a><br>
+<a href="impr.html" target="unten"
+       onMouseOver="changeImages('image6', 'image6on')"
+       onMouseOut="changeImages('image6', 'image6off')">
+<img src="jpg/impr.gif" align="right" border="0" name="image6" hspace="4">
+</a><br>
+
+</font>
+</body>
+</html>

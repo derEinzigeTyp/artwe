@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>06/22/09, 09:42:15 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Vernissage</groupTitle>
+            <groupDescription>Die Aufnahmen zeigen Nahaufnahmen von Felsoberflächen.</groupDescription>
+            <siteTitle>SCHWINGUNGEN- ALTES KLOSTER HÜRTH 2009</siteTitle>
+            <contactName></contactName>
+            <contactEmail>http://www.art-we.de</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="192" maxheight="192"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="18">
+        <item>
+            <title></title>
+            <description>Vernissage 01</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AF7B579C-1738-416B-BA38-80B48DE39ACB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_01.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_01.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_01.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_01.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 02</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BE473930-6377-4B8E-8D83-968E34675B75"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_02.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_02.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_02.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_02.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 03</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B958904B-05D5-42D6-B9E9-87E48015FA7F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_03.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_03.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_03.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_03.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 04</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3A48D212-076E-4D65-88F3-9A287064E8F9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_04.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_04.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_04.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_04.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 05</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="400E38B0-65C3-4753-A128-67F00F897EEB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_05.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_05.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_05.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_05.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 06</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="14713F4C-6ED0-46F9-BF30-0E26C29701C8"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_06.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_06.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_06.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_06.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 07</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AB7174A1-FDA1-44C4-AC27-38B129799667"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_07.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_07.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_07.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_07.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 08</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2940827B-D1CC-4888-B50D-FB2377231289"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_08.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_08.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_08.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_08.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 09</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="78A56748-43A5-468C-9B08-6E7FCD283487"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_09.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_09.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_09.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_09.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 10</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CB9CBC29-5647-4D2B-92E2-3FF2EF570227"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_10.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_10.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_10.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_10.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 11</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D7DC1B41-5CA0-4CE8-8E23-56D02F63AEFC"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_11.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_11.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_11.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_11.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 12</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="12851C9A-CB17-4F24-865C-A0791D2A0079"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_12.jpg" height="850" width="565"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_12.jpg" height="650" width="432"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_12.jpg" height="520" width="345"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_12.jpg" height="192" width="128"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 13</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="46710922-8BE6-4924-BA0B-EBBED5D32A9E"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_13.jpg" height="850" width="565"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_13.jpg" height="650" width="432"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_13.jpg" height="520" width="345"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_13.jpg" height="192" width="128"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 14</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3CAA81F0-52C6-49BC-8E0D-CA1412C1BBA0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_14.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_14.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_14.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_14.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 15</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E0F7CE93-573C-4FD1-9792-5C538272A57D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_15.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_15.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_15.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_15.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 16</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="70858121-4E4C-4156-A42C-45033442C445"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_16.jpg" height="850" width="565"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_16.jpg" height="650" width="432"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_16.jpg" height="520" width="345"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_16.jpg" height="192" width="128"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 17</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="29A6E6DF-64CD-460D-8EDB-A3C49DAA01E0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_17.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_17.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_17.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_17.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title></title>
+            <description>Vernissage 18</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="03004DFF-CCC7-4E23-A764-1F521DE658DD"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Vernissage_18.jpg" height="847" width="1275"></rendition>
+                <rendition size="medium" src="bin/images/medium/Vernissage_18.jpg" height="650" width="979"></rendition>
+                <rendition size="small" src="bin/images/small/Vernissage_18.jpg" height="520" width="783"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Vernissage_18.jpg" height="128" width="192"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

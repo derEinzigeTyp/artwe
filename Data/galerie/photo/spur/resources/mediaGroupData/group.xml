@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>12/31/10, 03:59:51 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>SPUREN</siteTitle>
+            <contactName> 2008- 2009 FineArt-Print auf Bütten  30cm x 45cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="9">
+        <item>
+            <title>Spuren No. 5</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DBD57FD3-D98A-4385-BA8D-C51B3BF95B79"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._5.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._5.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._5.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._5.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1077A0A5-6B3C-4C63-9D60-1E0D0E82459A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._2.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._2.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._2.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._2.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="740786C1-1E4F-4E58-A40F-27CDD71067AE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._3.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._3.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._3.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._3.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 4</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="48096A7A-A06E-44BF-BDCF-A87897685A18"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._4.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._4.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._4.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._4.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="390C8909-189E-481A-8247-88DEF02CD87B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._1.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._1.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._1.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._1.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 9</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9CCAD274-A23D-4296-A293-36E5A0E30659"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._9.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._9.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._9.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._9.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 8</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C05524A6-22D8-4572-A2E0-B8AE27A2F1FF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._8.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._8.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._8.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._8.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 7</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D773AE19-88AE-462E-B525-97D2A548F0CF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._7.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._7.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._7.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._7.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Spuren No. 6</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="89C906E7-D3ED-4F7D-8FDD-4A66804DDB09"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Spuren_No._6.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Spuren_No._6.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Spuren_No._6.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Spuren_No._6.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

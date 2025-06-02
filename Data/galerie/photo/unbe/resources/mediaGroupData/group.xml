@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>03/14/11, 01:30:59 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>UNBEKANNT</siteTitle>
+            <contactName>2011 Alu-Dibond  30cm x 45cm / 50cm x 75cm  ohne Weißrand</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="17">
+        <item>
+            <title>2011 UNBEKANNT No. 01</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="13E91190-CC5F-4580-B157-4275013B2EA8"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._01.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._01.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._01.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._01.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 02</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1C1324CC-C298-4A59-AE75-7CF8378F7444"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._02.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._02.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._02.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._02.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 03</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A412D19B-EA91-4530-A91F-607BCB90E176"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._03.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._03.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._03.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._03.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 04</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="678DDBA6-569A-444F-B452-2324F0B6A1BA"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._04.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._04.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._04.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._04.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 05</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AFC35299-42E6-4FDD-99AD-7410EDC8BD27"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._05.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._05.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._05.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._05.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 06</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4E2CBF81-F48A-4681-8ABA-0D36BE7A4948"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._06.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._06.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._06.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._06.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 07</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0A233A67-267A-49A5-8681-CA70E16E6A68"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._07.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._07.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._07.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._07.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 08</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3BAE94B8-BAC1-4D13-A2D0-28C233776F35"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._08.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._08.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._08.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._08.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 09</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="223ED307-3C3E-401F-AEBC-541AC08CB343"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._09.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._09.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._09.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._09.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 10</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="69EE9D5D-271B-4811-B45A-2C3C7B133DD7"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._10.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._10.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._10.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._10.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 11</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="539F852A-D909-4168-8837-B6ECE068EF81"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._11.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._11.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._11.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._11.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 12</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="40A3801B-682B-4461-A013-2F2D33E8BDDA"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._12.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._12.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._12.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._12.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 13</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5E5D0FDB-9207-46B7-BDC5-5A455295C4B2"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._13.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._13.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._13.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._13.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 14</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0F75B3E1-DA05-4596-84BC-B1F1DF83856C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._14.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._14.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._14.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._14.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 15</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="66389399-9582-47E6-B47D-6ED6E87CD4AE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._15.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._15.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._15.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._15.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 16</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F9EE5DA8-9178-4FF2-8D89-138756497C28"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._16.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._16.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._16.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._16.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2011 UNBEKANNT No. 17</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FD4964F8-4B7E-4117-B5D3-4E35CD00A11C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2011_UNBEKANNT_No._17.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2011_UNBEKANNT_No._17.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2011_UNBEKANNT_No._17.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2011_UNBEKANNT_No._17.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

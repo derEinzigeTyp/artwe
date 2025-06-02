@@ -1,0 +1,36 @@
+body  { color: #f1f1f1; font-size: 8pt; font-family: ARIAL, VERDANA, HELVETICA; line-height: 16px; background-color: #292929;
+ text-align: left; border-width: 0; border-color: white;scrollbar-3d-light-color:#292929; scrollbar-arrow-color:#ffffff;
+scrollbar-Base-color:#292929 scrollbar-track-color: #292929;scrollbar-dark-shadow-color:#292929;scrollbar-face-color:#292929;
+scrollbar-highlight-color:#292929;scrollbar-shadow-color:#292929;}
+
+p  { color: #f1f1f1; font-size: 8pt; font-family: ARIAL, VERDANA, HELVETICA; line-height: 16px; background-color: #292929;
+text-align: left; border-width: 1; border-color: white }
+
+h1 { color: #ffffff; font-size: 12pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: center; letter-spacing: 6pt; margin: 1.33em 0 }
+
+h2 { color: #ffffff; font-size: 9pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 2pt; margin: 1.33em 0 }
+
+h3 { color: #ffffff; font-size: 12pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 6pt; margin: 1.33em 0 }
+
+h4 { color: #ffffff; font-size: 14pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bolder;line-height: 2;
+background-color: #292929; text-align:center; letter-spacing: 6pt; margin: 1.33em 0 }
+
+h5 { color: #fd0404; font-size: 14pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 6pt; margin: 1.33em 0 }
+
+h6 { color: #do404; font-size: 9pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 2pt; margin: 1.33em 0 }
+
+h7 { color: #ffffff; font-size: 10pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 2pt; margin: 1.33em 0 }
+
+h8 { color: #fd0404; font-size: 10pt; font-family:ARIAL, VERDANA, HELVETICA; font-weight: bold;line-height: 2;
+background-color: #292929; text-align: left; letter-spacing: 2pt; margin: 1.33em 0 }
+
+.class { color: #f1f1f1; font-size: 8pt; font-family: ARIAL, VERDANA, HELVETICA; line-height: 16px; background-color: #292929;
+ border-width: 0; border-color: white;scrollbar-3d-light-color:#292929; scrollbar-arrow-color:#ffffff;
+scrollbar-Base-color:#292929 scrollbar-track-color: #292929;scrollbar-dark-shadow-color:#292929;scrollbar-face-color:#292929;
+scrollbar-highlight-color:#292929;scrollbar-shadow-color:#292929;}

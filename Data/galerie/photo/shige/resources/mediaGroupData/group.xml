@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>01/01/11, 01:11:33 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>SILENT -SHIGE FUJISHIRO-</siteTitle>
+            <contactName> 2010     FineArt-Print     50cm  x  75cm </contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="7">
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ED20EC3A-048C-426B-AE25-20A379ACCFD9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._1.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._1.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._1.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._1.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E5772A2F-8806-427B-94D0-67A083692BF4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._2.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._2.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._2.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._2.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="42B3B958-833D-46A7-9B73-137816B0B299"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._3.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._3.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._3.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._3.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 4</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FD97AD1D-4CA3-44F4-B8ED-AEF8A88AB671"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._4.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._4.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._4.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._4.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 5</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="05CD7AA3-5B4B-4ABE-A85D-F61E562D65D0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._5.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._5.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._5.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._5.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 6</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2187E3E8-65CD-41DE-A65E-8467F74682EB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._6.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._6.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._6.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._6.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010  SILENT -Shige Fujishiro- No. 7</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F077191B-1DE1-41AD-962E-DCD0ADBB9757"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_SILENT_Shige_Fujishiro_No._7.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_SILENT_Shige_Fujishiro_No._7.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/2010_SILENT_Shige_Fujishiro_No._7.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_SILENT_Shige_Fujishiro_No._7.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

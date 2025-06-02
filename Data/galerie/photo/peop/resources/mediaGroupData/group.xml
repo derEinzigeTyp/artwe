@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>02/09/11, 11:00:57 vorm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>PEOPLE</siteTitle>
+            <contactName>2008-2010    FineArt-Print 50cm x 60cm </contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="18">
+        <item>
+            <title>2008 Singapore No.2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B330A259-8C8D-4ED9-8FA0-8EDF54D33989"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Singapore_No.2.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Singapore_No.2.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Singapore_No.2.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Singapore_No.2.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Singapore No.3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F37A2AA6-043F-4D9E-91C6-3CC1EED1C45F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Singapore_No.3.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Singapore_No.3.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Singapore_No.3.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Singapore_No.3.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Venedig No.2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E0A6F43C-B152-4637-A7C7-D7BDB4E68DFE"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Venedig_No.2.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Venedig_No.2.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Venedig_No.2.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Venedig_No.2.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Venedig No.1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FDA3884E-3EDD-4552-8941-48DEB97DADE2"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Venedig_No.1.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Venedig_No.1.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Venedig_No.1.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Venedig_No.1.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010 Budapest</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="081C2416-793C-47C4-BA68-E835CC46B606"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_Budapest.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_Budapest.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2010_Budapest.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_Budapest.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Hoi An No.2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0AC334F4-8470-4D02-BEC1-C0A5C3AF47A5"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Hoi_An_No.2.jpg" height="650" width="894"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Hoi_An_No.2.jpg" height="520" width="715"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Hoi_An_No.2.jpg" height="450" width="619"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Hoi_An_No.2.jpg" height="70" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 5</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F9CFABF7-8DE3-4F02-BCB9-8DF51196B59D"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._5.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._5.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._5.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._5.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Berlin</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4CDAC06F-3C83-4B89-8FF3-8F41E727BBDB"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Berlin.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Berlin.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Berlin.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Berlin.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Paris_</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5664C13D-413E-4CA4-9025-50DC578F8B58"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Paris_.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Paris_.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Paris_.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Paris_.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vorplatz Rathaus Hamburg No.1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E29B8ACE-9303-4E4D-A635-B4EEF6E1B4BF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vorplatz_Rathaus_Hamburg_No.1.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vorplatz_Rathaus_Hamburg_No.1.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vorplatz_Rathaus_Hamburg_No.1.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vorplatz_Rathaus_Hamburg_No.1.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Vorplatz Rathaus Hamburg No.2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="671247B7-D881-48A5-BD6A-A51CF421CB58"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Vorplatz_Rathaus_Hamburg_No.2.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Vorplatz_Rathaus_Hamburg_No.2.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Vorplatz_Rathaus_Hamburg_No.2.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Vorplatz_Rathaus_Hamburg_No.2.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Hoi An No1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D016452A-9A24-4380-B438-E1F5C4982502"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Hoi_An_No1.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Hoi_An_No1.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Hoi_An_No1.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Hoi_An_No1.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Singapore No.1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="287965EA-3179-44DA-8BC7-6B4EA2E27FC0"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Singapore_No.1.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Singapore_No.1.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Singapore_No.1.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Singapore_No.1.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 6</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E83953ED-F74D-4E27-A556-7C0692244A91"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._6.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._6.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._6.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._6.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AFEAE324-6F4A-465E-9114-9DDAD6006A3B"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._2.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._2.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._2.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._2.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="720BCFA0-C461-4D9A-AB09-44ECA4190455"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._1.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._1.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._1.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._1.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="63BB9599-8384-4762-BD41-EDC0DF09AC57"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._3.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._3.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._3.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._3.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 CSD Fourty Years Freedom No. 4</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="91862871-3797-4D40-B017-3E039A2372D7"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_CSD_Fourty_Years_Freedom_No._4.jpg" height="650" width="473"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_CSD_Fourty_Years_Freedom_No._4.jpg" height="520" width="378"></rendition>
+                <rendition size="small" src="bin/images/small/2009_CSD_Fourty_Years_Freedom_No._4.jpg" height="450" width="327"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_CSD_Fourty_Years_Freedom_No._4.jpg" height="96" width="70"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

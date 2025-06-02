@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>07/19/10, 03:32:35 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>PORTRAITS 2006-2010</siteTitle>
+            <contactName>FineArt-Print -unterschiedliche Größen</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="10">
+        <item>
+            <title>2006 Sabine J. -EROTISCH-</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="68F2EE0E-FB1C-425C-AADF-F169B598BA74"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2006_Sabine_J._EROTISCH_.jpg" height="650" width="780"></rendition>
+                <rendition size="medium" src="bin/images/medium/2006_Sabine_J._EROTISCH_.jpg" height="520" width="624"></rendition>
+                <rendition size="small" src="bin/images/small/2006_Sabine_J._EROTISCH_.jpg" height="450" width="540"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2006_Sabine_J._EROTISCH_.jpg" height="80" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2006 Sabine J. -WILD-</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BF9C2FCD-CEF1-46D9-B81E-69FD992CFFC1"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2006_Sabine_J._WILD_.jpg" height="650" width="780"></rendition>
+                <rendition size="medium" src="bin/images/medium/2006_Sabine_J._WILD_.jpg" height="520" width="624"></rendition>
+                <rendition size="small" src="bin/images/small/2006_Sabine_J._WILD_.jpg" height="450" width="540"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2006_Sabine_J._WILD_.jpg" height="80" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2007 Sabine J.No.3_</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="53546136-2694-4C98-A7A8-46522E732E3F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2007_Sabine_J.No.3_.jpg" height="650" width="867"></rendition>
+                <rendition size="medium" src="bin/images/medium/2007_Sabine_J.No.3_.jpg" height="520" width="694"></rendition>
+                <rendition size="small" src="bin/images/small/2007_Sabine_J.No.3_.jpg" height="450" width="600"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2007_Sabine_J.No.3_.jpg" height="72" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2007 Sabine J.No.2_</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DE631A36-A6B9-4604-9BD2-C9FF20F08D3F"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2007_Sabine_J.No.2_.jpg" height="650" width="520"></rendition>
+                <rendition size="medium" src="bin/images/medium/2007_Sabine_J.No.2_.jpg" height="520" width="416"></rendition>
+                <rendition size="small" src="bin/images/small/2007_Sabine_J.No.2_.jpg" height="450" width="360"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2007_Sabine_J.No.2_.jpg" height="96" width="77"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2007 Raphaela K. No.6</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0378C8CC-5773-4959-B941-95025170E039"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2007_Raphaela_K._No.6.jpg" height="650" width="919"></rendition>
+                <rendition size="medium" src="bin/images/medium/2007_Raphaela_K._No.6.jpg" height="520" width="735"></rendition>
+                <rendition size="small" src="bin/images/small/2007_Raphaela_K._No.6.jpg" height="450" width="636"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2007_Raphaela_K._No.6.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2007 Raphaela K. No.4</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ED76D3C1-9484-4AE5-8831-11166522A5EF"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2007_Raphaela_K._No.4.jpg" height="650" width="919"></rendition>
+                <rendition size="medium" src="bin/images/medium/2007_Raphaela_K._No.4.jpg" height="520" width="735"></rendition>
+                <rendition size="small" src="bin/images/small/2007_Raphaela_K._No.4.jpg" height="450" width="636"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2007_Raphaela_K._No.4.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2007 Raphaela K. No.5</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0A7F4D67-EF28-4706-A13F-C5F286E4FD8C"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2007_Raphaela_K._No.5.jpg" height="650" width="919"></rendition>
+                <rendition size="medium" src="bin/images/medium/2007_Raphaela_K._No.5.jpg" height="520" width="735"></rendition>
+                <rendition size="small" src="bin/images/small/2007_Raphaela_K._No.5.jpg" height="450" width="636"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2007_Raphaela_K._No.5.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Stefanie G. No.08</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C781A571-327D-4063-AF76-B1949BFF6C28"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Stefanie_G._No.08.jpg" height="650" width="732"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Stefanie_G._No.08.jpg" height="520" width="586"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Stefanie_G._No.08.jpg" height="450" width="507"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Stefanie_G._No.08.jpg" height="85" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Stefanie G. No.04</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BC99ED6C-81CF-45E8-9EDC-C65AB12AE688"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Stefanie_G._No.04.jpg" height="650" width="732"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Stefanie_G._No.04.jpg" height="520" width="586"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Stefanie_G._No.04.jpg" height="450" width="507"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Stefanie_G._No.04.jpg" height="85" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2010 Brother And Sisters 12</title>
+            <description></description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D3D86FF8-150A-450C-A5A4-F10DF07B04D3"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2010_Brother_And_Sisters_12.jpg" height="650" width="918"></rendition>
+                <rendition size="medium" src="bin/images/medium/2010_Brother_And_Sisters_12.jpg" height="520" width="734"></rendition>
+                <rendition size="small" src="bin/images/small/2010_Brother_And_Sisters_12.jpg" height="450" width="635"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2010_Brother_And_Sisters_12.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

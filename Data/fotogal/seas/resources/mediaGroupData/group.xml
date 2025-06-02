@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>11/28/09, 05:32:15 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>SEASCAPE</siteTitle>
+            <contactName>2008-09   Fineart-Print     42cm x 60cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="medium" maxwidth="1150" maxheight="650"></imageSize>
+        <imageSize size="large" maxwidth="1275" maxheight="850"></imageSize>
+    </sizes>
+    <media totalGallerySize="4">
+        <item>
+            <title>2008 Texel 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C67171AC-A568-4E15-BEF5-0664A23B422A"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Texel_1.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Texel_1.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Texel_1.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Texel_1.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2008 Texel 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5A82764D-BDA2-4AC4-8DF7-8741D77DE973"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2008_Texel_2.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2008_Texel_2.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2008_Texel_2.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2008_Texel_2.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 LANZAROTE 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FDE4F00C-887D-49F7-8249-67BA5D2C4B26"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_LANZAROTE_1.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_LANZAROTE_1.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_LANZAROTE_1.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_LANZAROTE_1.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>2009 Lanzarote 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FD93AE2D-7D16-426E-8483-A687F0228C24"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/2009_Lanzarote_2.jpg" height="850" width="1202"></rendition>
+                <rendition size="medium" src="bin/images/medium/2009_Lanzarote_2.jpg" height="650" width="919"></rendition>
+                <rendition size="small" src="bin/images/small/2009_Lanzarote_2.jpg" height="520" width="735"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/2009_Lanzarote_2.jpg" height="68" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>

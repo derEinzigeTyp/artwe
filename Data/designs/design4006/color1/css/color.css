@@ -1,0 +1,8 @@
+
+.top_background { background-color: #222222; }
+.content_background { background-color: #666666; }
+#body #big_wrap a:hover { color: #ffe400 }
+
+.thin_v_line { border-left-color: #ffe400; }
+.thin_h_line, .thick_h_line { border-top-color: #ffe400; }
+

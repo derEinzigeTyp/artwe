@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<mediaGroup>
+    <amgVersion version="1.3"></amgVersion>
+    <groupInfo>
+        <author></author>
+        <authorApplication>Adobe Lightroom 1.0</authorApplication>
+        <creationDate>12/31/10, 05:07:50 nachm.</creationDate>
+        <galleryMaker name="Adobe Flash Gallery" version="1.3"></galleryMaker>
+        <groupData groupID="" groupName=""></groupData>
+        <authorID></authorID>
+        <custom>
+            <groupTitle>Fotografie</groupTitle>
+            <groupDescription>Web-Fotogalerie erstellt mit Adobe Lightroom.</groupDescription>
+            <siteTitle>TRANSFORMATION</siteTitle>
+            <contactName> 2007 - 2008    FineArt-Print AUF BÜTTEN   30cm x 45cm</contactName>
+            <contactEmail>mailto:benutzer@domaene</contactEmail>
+        </custom>
+    </groupInfo>
+    <sizes>
+        <imageSize size="thumb" maxwidth="96" maxheight="96"></imageSize>
+        <imageSize size="small" maxwidth="800" maxheight="450"></imageSize>
+        <imageSize size="medium" maxwidth="1040" maxheight="520"></imageSize>
+        <imageSize size="large" maxwidth="1150" maxheight="650"></imageSize>
+    </sizes>
+    <media totalGallerySize="5">
+        <item>
+            <title>Transformation No. 1</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2E5117D7-824B-477B-98D7-E1D654159AD9"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Transformation_No._1.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Transformation_No._1.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Transformation_No._1.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Transformation_No._1.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Transformation No. 2</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="165E2A9C-E32E-4538-921A-EC39B5291AC4"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Transformation_No._2.jpg" height="650" width="464"></rendition>
+                <rendition size="medium" src="bin/images/medium/Transformation_No._2.jpg" height="520" width="371"></rendition>
+                <rendition size="small" src="bin/images/small/Transformation_No._2.jpg" height="450" width="321"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Transformation_No._2.jpg" height="96" width="69"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Transformation No. 3</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="27E1A7C0-42F4-467D-BC8F-7D9CC30AEE03"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Transformation_No._3.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Transformation_No._3.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Transformation_No._3.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Transformation_No._3.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Transformation No. 4</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CD94CB49-E70C-40D6-8EF7-382C724B9306"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Transformation_No._4.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Transformation_No._4.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Transformation_No._4.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Transformation_No._4.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+        <item>
+            <title>Transformation No. 5</title>
+            <description>Auflage 7 + 3</description>
+            <imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6E862791-1804-4F3D-AECB-FD9725E68403"></imageID>
+            <mediaType category="image" format="jpeg"></mediaType>
+            <renditions>
+                <rendition size="large" src="bin/images/large/Transformation_No._5.jpg" height="650" width="910"></rendition>
+                <rendition size="medium" src="bin/images/medium/Transformation_No._5.jpg" height="520" width="728"></rendition>
+                <rendition size="small" src="bin/images/small/Transformation_No._5.jpg" height="450" width="630"></rendition>
+                <rendition size="thumb" src="bin/images/thumb/Transformation_No._5.jpg" height="69" width="96"></rendition>
+            </renditions>
+        </item>
+    </media>
+</mediaGroup>
